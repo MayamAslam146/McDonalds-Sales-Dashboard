@@ -1,5 +1,5 @@
-McDonald's Sales Dashboard
-Overview
+*McDonald's Sales Dashboard*
+*Overview*
 This project is an Interactive McDonald's Sales Report Dashboard built in Microsoft Excel. It offers insights into McDonald’s sales performance using dynamic charts, slicers, and regional analysis.
 
 Features
